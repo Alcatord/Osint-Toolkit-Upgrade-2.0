@@ -158,8 +158,10 @@ If you find this project useful:
 **Alcatord**
 Instagram:
 https://www.instagram.com/alca_tord
+
 GitHub:
 https://github.com/Alcatord
+
 x (Twitter):
 https://x.com/Alcatord
 
